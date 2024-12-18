@@ -1,7 +1,15 @@
 # Frontend Adventure🚀
-<div style="text-align:right">**created.** 2024-12-18</div>
-*--
-**Goal |** HTML, CSS, JavaScript 이해하기
+<div align="right"> <b>Created: </b> 2024-12-18 </div>
 
-**Quest | **
+* * *
 
+## **🔦Goal |** HTML, CSS, JavaScript를 적절히 활용하는 개발자 
+* 웹 접근성을 고려하면서, 원하는 형태로 *웹 페이지를 구조화*할 수 있다
+* 다양한 스타일을 적용하여 웹 페이지의 *시각적 요소를 설계*할 수 있다
+* PC, 모바일, 태블릿 등 *다양한 기기에 반응하는 디자인을 작성*할 수 있다
+* 다양한 인터랙티브 UI 요소를 구현하여 *사용자 경험을 향상*시킬 수 있다
+
+<br>
+
+## **🔦Quest |** 추후 업데이트 예정 
+* 
